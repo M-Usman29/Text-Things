@@ -1,3 +1,8 @@
+![Capture](https://github.com/M-Usman29/Text-Things/assets/125122553/ec2afc4c-59f8-4321-9f27-f92feb76b1e1)
+
+![Capture2](https://github.com/M-Usman29/Text-Things/assets/125122553/4aaee986-85d7-4f83-93ca-543f5ad12005)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
